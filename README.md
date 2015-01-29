@@ -6,7 +6,12 @@
 You’ve now made an atomic change in code. Before any commits, make sure you set your user.name and user.email to match up with your GitHub user name and email.
 
 4. Add your created files.
+
+
 5. Commit your changes. Make sure your commit message is meaningful and describes what changes you made.
+
+
+
 6. From those files in your newly created directory, make changes to both of them. What you change does not matter, but try to make it fairly significant. For example, delete half of the repository or write a poem in comments. I don't expect you to run it.
 7. Commit your changes.
 8. Push up your changes to master. Remember you've forked the project, changesets go to your own instance of the repository, not mine.
