@@ -13,7 +13,11 @@ You’ve now made an atomic change in code. Before any commits, make sure you se
 
 
 6. From those files in your newly created directory, make changes to both of them. What you change does not matter, but try to make it fairly significant. For example, delete half of the repository or write a poem in comments. I don't expect you to run it.
+
+
 7. Commit your changes.
+
+
 8. Push up your changes to master. Remember you've forked the project, changesets go to your own instance of the repository, not mine.
 9. Navigate to the res/ directory. It will be empty.
 10. Create a new folder named exactly your GitHub username and navigate to it.
